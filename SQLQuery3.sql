@@ -1,0 +1,1 @@
+﻿UPDATE Users SET Role = 'user' WHERE Username IN ('user1', 'user2');
